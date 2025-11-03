@@ -14,6 +14,9 @@ Images
 - Polling app deployed (service/ingress view or app UI):
   ![Polling app](images/polling-app.png)
 
+- Kubernetes Cluster:
+  ![Cluster](images/cluster.png)
+
 Outcome : 
 Successfully the pipeline on jenkins and deployed polling app
 
