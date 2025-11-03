@@ -1,0 +1,20 @@
+Vasu Desai - 22070122050 - Task 7
+
+Gitops based kubernetes deployment(App : polling app)
+repo : "k8s-gitops-demo"
+branch: dev(test cluster), prod(production cluster)
+jenkins pipeline applies manifest based on branch 
+depoly polling app accordingly
+output : jenkins pipeline deploys to correct enviorment
+
+Images
+- Jenkins pipeline run (deployed to dev/prod):
+  ![Jenkins pipeline](images/jenkins-pipeline.png)
+
+- Polling app deployed (service/ingress view or app UI):
+  ![Polling app](images/polling-app.png)
+
+Outcome : 
+Successfully the pipeline on jenkins and deployed polling app
+
+

@@ -1,0 +1,1 @@
+mkdir -p app k8s/dev k8s/prod
